@@ -1,4 +1,6 @@
 # Opencart_API_Testing
 
-In this Project, I have done opencart ;ogn and udpdated cart. 
-d
+I have created postman collection to test opencart API. The entire collection is attached in which I have used GET POST and PUT method. Written test cases
+- to generate user token. 
+- Add product to the cart.
+- 
